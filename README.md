@@ -1,4 +1,4 @@
-# Scroll_Praave
+# Praave - Scroll
 ### Praave
 
 *Private transactions for your DeFi apps and beyond*
